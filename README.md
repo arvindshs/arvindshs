@@ -32,22 +32,46 @@ From crafting smooth UI in **Figma + Photoshop** to building scalable systems in
 </p>
 
 ---
-
-## 🛠️ My Creative Toolkit  
+## 🛠️ Skills & Toolkit  
 
 <p align="center">
+  <!-- Programming -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="50" title="Java"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50" title="Python"/>
+  
+  <!-- Frontend -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" title="HTML"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50" title="CSS"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" title="JavaScript"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="50" title="React"/>
+  <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="50" title="Tailwind CSS"/>
+  
+  <!-- Backend -->
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50" title="Node.js"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="50" title="Express.js"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" width="50" title="Spring Boot"/>
+  
+  <!-- Databases -->
+  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="50" title="SQL"/>
+  
   <!-- Design -->
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="50" title="Figma"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="50" title="Photoshop"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="50" title="Illustrator"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="50" title="Blender"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968771.png" width="50" title="Canva"/>
   
-  <!-- Development -->
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="50" title="React"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" width="50" title="Spring Boot"/>
+  <!-- Gaming -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="50" title="Unity"/>
   
-  <!-- Testing & Tools -->
+  <!-- AI / ML -->
+  <img src="https://cdn-icons-png.flaticon.com/512/3940/3940056.png" width="50" title="AI/ML"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968709.png" width="50" title="scikit-learn"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="50" title="TensorFlow"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50" title="Pandas"/>
+  
+  <!-- Testing -->
   <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50" title="Selenium"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" width="50" title="Linux"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="50" title="Git"/>
 </p>
 
 ---
