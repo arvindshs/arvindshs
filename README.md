@@ -11,21 +11,24 @@
 ---
 
 ## 🎭 Who am I?  
-I’m **Samuel Chelladhurai (Chellamuthu)** — a **Product Developer** who blends  
+I’m **Arvind H S** — a **Product Developer** who blends  
 🎨 *Design Thinking* with ⚙️ *Engineering Precision*.  
 
 From crafting smooth UI in **Figma + Photoshop** to building scalable systems in  
 **React • Spring Boot • Selenium** → I live at the crossroads of design & tech.  
 
 ---
+<p align="center">![web design (1)](https://github.com/user-attachments/assets/016cd3e7-6ec1-4834-b195-d267a5c2b8dd)
 
+  <img src="https://github.com/user-attachments/assets/016cd3e7-6ec1-4834-b195-d267a5c2b8dd" width="300"/>
+</p>
 ## 🛠️ My Creative Toolkit  
 
 | Design | Development | Testing & Tools |
 |--------|-------------|-----------------|
 | 🎨 Figma | ⚛️ React | 🤖 Selenium |
 | 🖌 Photoshop | ☕ Spring Boot | 🐧 Linux / Shell |
-| ✨ Typography | 🗄️ Mongo / SQL | ⚡ Git + CI/CD |
+| ✨ Typography | 🗄️ Mongo / SQL | ⚡ Git |
 
 ---
 
@@ -48,9 +51,9 @@ From crafting smooth UI in **Figma + Photoshop** to building scalable systems in
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.behance.net/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Behance-%23191919.svg?style=for-the-badge&logo=behance&logoColor=white"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arvind-h-s-848474265" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.behance.net/arvindshs" target="_blank"><img src="https://img.shields.io/badge/Behance-%23191919.svg?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="mailto:arvindbond52@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
